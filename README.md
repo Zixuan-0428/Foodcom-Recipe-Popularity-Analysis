@@ -3,6 +3,12 @@
 This project explores **why some dishes become popular on Food.com** while others go unnoticed — using data from **over 500 K recipes** and **1.4 M user reviews**.  
 Through data cleaning, visualization, and analysis, we reveal the key factors behind recipe popularity and user satisfaction.
 
+## Team Members
+- Hamza Tariq  
+- Zixuan Zhu  
+- Ansh Gupta 
+- Zexuan Wang
+- Zixiao Jiao
 
 ## Objectives
 1. Identify which recipe features most influence **ratings** and **popularity**.  
